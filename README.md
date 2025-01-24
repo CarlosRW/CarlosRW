@@ -38,6 +38,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
     </tr>
   </table>
 </div>
+
 ---
 
 ### 🎯 Some Quick Stats:
