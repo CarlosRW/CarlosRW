@@ -1,3 +1,16 @@
-<h1> Welcome to my GitHub!👋 </h1>
-<p>Explore my projects and learn more about me.</p>
-<a href="https://github.com/CarlosRW" target="_blank">Visit My Repos</a>
+# Hello! 👋 Welcome to my GitHub Profile
+
+I’m glad you’re here! 🚀 Here’s a little about me:
+
+- 🌱 I’m currently learning **Web Development** , **Back-End** and **Open Source**.
+- ✍️ Software Development Engineering Student.
+- 👨‍💻 Check out my repositories to see my projects and contributions.
+- 🔗 [To know more, visit my LinkedIn](https://www.linkedin.com/in/carlosrw/)
+
+---
+
+### Some Quick Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical)
+
+Feel free to connect with me! 😄
