@@ -29,5 +29,5 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ---
 
-Feel free to connect with me! 😄
+<h1> 📫 Feel free to connect with me! </h1>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
