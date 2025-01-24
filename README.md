@@ -22,6 +22,12 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 </p>
 
 ---
+
+### Some Quick Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=donut&theme=dracula)](https://github.com/CarlosRW/github-readme-stats)
+
 ---
 
 Feel free to connect with me! 😄
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
