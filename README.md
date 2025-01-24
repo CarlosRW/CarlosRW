@@ -12,7 +12,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 ### Some Quick Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=donut&theme=dracula)](https://github.com/CarlosRW/github-readme-stats)
 
 Feel free to connect with me! 😄
 
