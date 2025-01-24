@@ -1,6 +1,7 @@
 # Hello! 👋 Welcome to my GitHub Profile
 
-<img src="https://i.pinimg.com/736x/e9/fd/1d/e9fd1ddc893d3450be7eb65380bb2687.jpg" alt="About Me" width="200" align="right">
+<img src="https://github.com/CarlosRW/CarlosRW/blob/main/welcome-snoopy.jpg?raw=true" alt="About Me" width="200" align="right" style="border-radius: 15px;">
+
 I’m glad you’re here! 🚀 Here’s a little about me:
 
 - 🌱 I’m currently learning **Web Development** , **Back-End** and **Open Source**.
