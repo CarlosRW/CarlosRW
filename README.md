@@ -20,9 +20,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
     </tr>
     <tr>
       <td align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5">
-         <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="40"/>
-        </a>
+         <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="50"/>
         <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="50"/>
         <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50"/>
