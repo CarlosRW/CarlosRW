@@ -11,11 +11,17 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ---
 
-### Some Quick Stats:
+### 🛠️ Languages & Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript&logoColor=white" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Markup-HTML5-orange?logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/Styling-CSS3-blue?logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Framework-React-61dafb?logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Framework-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js">
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=dracula&card_width=400)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=donut&theme=dracula&card_width=400)](https://github.com/CarlosRW/github-readme-stats)
-
+---
 ---
 
 Feel free to connect with me! 😄
