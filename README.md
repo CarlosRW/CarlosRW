@@ -42,22 +42,14 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 ---
 
 ### 🎯 Some Quick Stats:
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-      </td>
-      <td align="center">
-        <h3>Top Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" alt="Top Languages" width="400" />
-      </td>
-    </tr>
-  </table>
-</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=donut&theme=dracula)](https://github.com/CarlosRW/github-readme-stats)
 
 ---
 
 ### 📫 Feel free to connect with me!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
+
+<p> Made with ♥️ by CarlosRW </p>
