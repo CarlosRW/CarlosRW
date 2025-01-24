@@ -30,7 +30,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
       <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>
       <img src="https://img.icons8.com/?size=100&id=106564&format=png&color=000000" alt="GitHub" width="50"/>
       <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="50"/>
-      <img src="https://img.icons8.com/?size=100&id=HGd2amAYhRGr&format=png&color=000000" alt="Canva" width="50"/>
+      <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" alt="Canva" width="50"/>
       <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCode" width="50"/>
       <img src="https://img.icons8.com/?size=100&id=lsDwPKu9v0gn&format=png&color=000000" alt="Notion" width="50"/>
     </td>
