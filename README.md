@@ -1,6 +1,6 @@
 # Hello! 👋 Welcome to my GitHub Profile
 
-<img src="https://github.com/CarlosRW/CarlosRW/blob/main/welcome-snoopy.jpg?raw=true" alt="About Me" width="200" align="right" style="border-radius: 15px;">
+<img src="https://github.com/CarlosRW/CarlosRW/blob/main/rounded-image.svg?raw=true" alt="About Me" width="200" align="right">
 
 I’m glad you’re here! 🚀 Here’s a little about me:
 
