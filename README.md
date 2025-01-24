@@ -14,3 +14,4 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical)
 
 Feel free to connect with me! 😄
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
