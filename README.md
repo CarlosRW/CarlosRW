@@ -53,8 +53,8 @@ I’m glad you’re here! 🚀 Here’s a little about me:
     <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" />
   </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shiponirfan&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shiponirfan&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRW&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosRW&theme=radical)
 
 ---
 
