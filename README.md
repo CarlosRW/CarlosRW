@@ -49,8 +49,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
   <div style="flex: 1; max-width: 45%; min-width: 300px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" 
-      alt="GitHub Stats" 
-      style="width: 100%; transform: scale(0.7); transform-origin: top left;"
+      alt="GitHub Stats";
     />
   </div>
 
@@ -58,8 +57,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
   <div style="flex: 1; max-width: 45%; min-width: 300px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" 
-      alt="Top Languages" 
-      style="width: 100%; transform: scale(0.7); transform-origin: top left;"
+      alt="Top Languages";
     />
   </div>
 
