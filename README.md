@@ -44,16 +44,12 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 🎯 Some Quick Stats:
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-  <!-- GitHub Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" 
-      alt="GitHub Stats"; />
-  <!-- Most Used Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" 
-      alt="Top Languages"; />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
