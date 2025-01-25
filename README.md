@@ -50,7 +50,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
   </a>
   <!-- Most Used Languages -->
   <a href="https://github.com/CarlosRW/convoychat">
-    <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" />
+    <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
   </a>
 
 ---
