@@ -43,23 +43,23 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 🎯 Some Quick Stats:
 
-<div align="center" style="display: flex; justify-content: space-between; align-items: stretch; gap: 20px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 20px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
-  <div style="flex: 1; max-width: 50%; min-width: 300px; height: auto; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; max-width: 400px; min-width: 300px; height: auto; display: flex; flex-direction: column; justify-content: space-between;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" 
       alt="GitHub Stats" 
-      style="width: 100%; border-radius: 10px;"
+      style="width: 100%; border-radius: 10px; max-height: 300px;"
     />
   </div>
 
   <!-- Most Used Languages -->
-  <div style="flex: 1; max-width: 50%; min-width: 300px; height: auto; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; max-width: 400px; min-width: 300px; height: auto; display: flex; flex-direction: column; justify-content: space-between;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" 
       alt="Top Languages" 
-      style="width: 100%; border-radius: 10px;"
+      style="width: 100%; border-radius: 10px; max-height: 300px;"
     />
   </div>
 
