@@ -43,8 +43,10 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 🎯 Some Quick Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=donut&theme=dracula)](https://github.com/CarlosRW/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; width: 400px; margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; width: 400px; margin: 10px;" />
+</div>
 
 ---
 
