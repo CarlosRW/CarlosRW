@@ -21,17 +21,17 @@ I’m glad you’re here! 🚀 Here’s a little about me:
     </tr>
     <tr>
       <td align="center">
-         <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML5" width="50"/>
-        <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3" width="50"/>
-        <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript" width="50"/>
+         <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50"/>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/color/48/git.png" alt="Git" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=106564&format=png&color=000000" alt="GitHub" width="50"/>
-        <img src="https://img.icons8.com/color/48/figma.png" alt="Figma" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" alt="Canva" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCode" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=lsDwPKu9v0gn&format=png&color=000000" alt="Notion" width="50"/>
