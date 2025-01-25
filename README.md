@@ -46,11 +46,11 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
   <!-- GitHub Stats -->
   <a href="https://github.com/CarlosRW/github-readme-stats">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" />
+    <img width="400" height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" />
   </a>
   <!-- Most Used Languages -->
   <a href="https://github.com/CarlosRW/convoychat">
-    <img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosRW&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
+    <img width="400" height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CarlosRW&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=radical" />
   </a>
 
 ---
