@@ -6,6 +6,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 - 🌱 I’m currently learning **Web Development** , **Back-End** and **Open Source**.
 - ✍️ Software Development Engineering Student.
+- 🎮 I like to play videogames and stream.
 - 👨‍💻 Check out my repositories to see my projects and contributions.
 - 🔗 [To know more, visit my LinkedIn!](https://www.linkedin.com/in/carlosrw/)
 
@@ -44,23 +45,14 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 ### 🎯 Some Quick Stats:
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
-
   <!-- GitHub Stats -->
-  <div style="flex: 1; max-width: 45%; min-width: 300px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" 
-      alt="GitHub Stats";
-    />
-  </div>
-
+      alt="GitHub Stats"; />
   <!-- Most Used Languages -->
-  <div style="flex: 1; max-width: 45%; min-width: 300px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" 
-      alt="Top Languages";
-    />
-  </div>
-
+      alt="Top Languages"; />
 </div>
 
 ---
