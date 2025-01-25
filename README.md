@@ -53,15 +53,10 @@ I’m glad you’re here! 🚀 Here’s a little about me:
     <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=radical" />
   </a>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosRW&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CarlosRW&theme=radical)
-
 ---
 
 ### 📫 Feel free to connect with me!
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
-
-
 
 <p> Made with ♥️ </p>
