@@ -43,23 +43,23 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 🎯 Some Quick Stats:
 
-<div align="center" style="display: flex; justify-content: center; align-items: stretch; gap: 8px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: wrap;">
 
   <!-- GitHub Stats -->
-  <div style="flex: 1; max-width: 120px; min-width: 100px; height: auto; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; max-width: 45%; min-width: 300px;">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" 
       alt="GitHub Stats" 
-      style="width: 100%; border-radius: 10px; max-height: 120px;"
+      style="width: 100%; transform: scale(0.7); transform-origin: top left;"
     />
   </div>
 
   <!-- Most Used Languages -->
-  <div style="flex: 1; max-width: 120px; min-width: 100px; height: auto; display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; max-width: 45%; min-width: 300px;">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" 
       alt="Top Languages" 
-      style="width: 100%; border-radius: 10px; max-height: 120px;"
+      style="width: 100%; transform: scale(0.7); transform-origin: top left;"
     />
   </div>
 
