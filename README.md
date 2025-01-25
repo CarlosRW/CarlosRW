@@ -57,7 +57,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 📫 Feel free to connect with me!
 
-  <img src="https://img.icons8.com/?size=100&id=DtBPN1O4CCnF&format=png&color=000000" alt="LinkedIn" width="50"/> [![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
+[![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
 
 
 
