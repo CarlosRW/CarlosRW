@@ -43,9 +43,24 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 🎯 Some Quick Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; width: 400px; margin: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; width: 400px; margin: 10px;" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- GitHub Stats -->
+  <div style="flex: 1; max-width: 400px; min-width: 300px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" 
+      alt="GitHub Stats" 
+      style="width: 100%; border-radius: 10px;"
+    />
+  </div>
+
+  <!-- Most Used Languages -->
+  <div style="flex: 1; max-width: 400px; min-width: 300px;">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" 
+      alt="Top Languages" 
+      style="width: 100%; border-radius: 10px;"
+    />
+  </div>
 </div>
 
 ---
