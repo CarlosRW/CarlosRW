@@ -43,7 +43,8 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 
 ### 🎯 Some Quick Stats:
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto;">
+
   <!-- GitHub Stats -->
   <div style="flex: 1; max-width: 400px; min-width: 300px;">
     <img 
@@ -61,6 +62,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
       style="width: 100%; border-radius: 10px;"
     />
   </div>
+
 </div>
 
 ---
