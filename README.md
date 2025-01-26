@@ -21,7 +21,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
     </tr>
     <tr>
       <td align="center">
-         <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50"/>
