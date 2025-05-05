@@ -58,5 +58,5 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 ### 📫 Feel free to connect with me!
 
 [![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
-
+Email: carlos.ramirezw23@gmail.com
 <p> Made with ♥️ </p>
