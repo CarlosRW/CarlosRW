@@ -5,10 +5,11 @@
 I’m glad you’re here! 🚀 Here’s a little about me:
 
 - 🌱 I’m currently learning **Web Development** , **Back-End** and **Open Source**.
-- ✍️ Software Development Engineering Student.
+- ✍️ Software Development Engineering Student. And Game Developer
 - 🎮 I like to play videogames and listen to music.
 - 👨‍💻 Check out my repositories to see my projects and contributions.
 - 🔗 [To know more, visit my LinkedIn!](https://www.linkedin.com/in/carlosrw/)
+- 🔗 [This is my porfolio!](https://carlosrw-portfolio.vercel.app/) 
 
 ---
 
