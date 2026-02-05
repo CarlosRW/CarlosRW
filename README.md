@@ -28,6 +28,9 @@ I’m glad you’re here! 🚀 Here’s a little about me:
         <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="50"/>
+        <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="TailwindCSS" width="50"/>
+        <img src="" alt="TailwindCSS" width="50"/>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50"/>
@@ -53,7 +56,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
   <a href="https://github.com/CarlosRW/convoychat">
     <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" />
   </a>
-
+  
 ---
 
 ### 📫 Feel free to connect with me!
