@@ -30,11 +30,9 @@ I’m glad you’re here! 🚀 Here’s a little about me:
         <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="TailwindCSS" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=J6KcaRLsTgpZ&format=png&color=000000" alt="Database" width="50"/>
       </td>
       <td align="center">
         <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=106564&format=png&color=000000" alt="GitHub" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" alt="Canva" width="50"/>
         <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCode" width="50"/>
