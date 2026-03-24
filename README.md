@@ -9,7 +9,7 @@ I’m glad you’re here! 🚀 Here’s a little about me:
 - 🎮 I like to play videogames and listen to music.
 - 👨‍💻 Check out my repositories to see my projects and contributions.
 - 🔗 [To know more, visit my LinkedIn!](https://www.linkedin.com/in/carlosrw/)
-- 🔗 [This is my porfolio!](https://carlosrw-portfolio.vercel.app/) 
+- 🔗 [This is my porfolio!](https://portfolio-carlosrw.vercel.app/) 
 
 ---
 
