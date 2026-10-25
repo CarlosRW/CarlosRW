@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[URL_IMAGEN_BANNER]" alt="Banner" width="100%" />
+  <img src="https://github.com/CarlosRW/CarlosRW/blob/main/descarga%20(1).jpg?raw=true" alt="Banner" width="100%" height="50%" />
 </div>
 
 <br/>
@@ -14,9 +14,9 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<img align="right" src="[URL_IMAGEN_LATERAL]" alt="Aesthetic GIF/Image" width="250" />
+<img align="right" src="https://github.com/CarlosRW/CarlosRW/blob/main/descarga%20(2)-ascii-animation%20(1).gif?raw=true" alt="Aesthetic GIF/Image" width="250" />
 
-Hey, I'm Carlos — a Software Development Engineer focused on building robust full-stack applications and immersive digital experiences.
+Hey, I'm Carlos - a Software Development Engineer focused on building robust full-stack applications and immersive digital experiences.
 
 As the Founder of **Skycrew Solutions**, I enjoy architecting production-ready platforms using Next.js, Spring Boot, and Supabase, while also developing games in Godot and Unity.
 
