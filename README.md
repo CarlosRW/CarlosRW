@@ -1,64 +1,71 @@
-# Hello! 👋 Welcome to my GitHub Profile
-
-<img src="https://github.com/CarlosRW/CarlosRW/blob/main/Adobe%20Express%20-%20file.png?raw=true" alt="About Me" width="200" align="right">
-
-I’m glad you’re here! 🚀 Here’s a little about me:
-
-- 🌱 I’m currently learning **Web Development** , **Back-End** and **Open Source**.
-- ✍️ Software Development Engineering Student. And Game Developer
-- 🎮 I like to play videogames and listen to music.
-- 👨‍💻 Check out my repositories to see my projects and contributions.
-- 🔗 [To know more, visit my LinkedIn!](https://www.linkedin.com/in/carlosrw/)
-- 🔗 [This is my porfolio!](https://portfolio-carlosrw.vercel.app/) 
-
----
-
-### 🛠️ Languages & Tools:
 <div align="center">
-  <table>
-    <tr>
-      <td align="center"><b>Languages</b></td>
-      <td align="center"><b>Tools</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="HTML5" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="CSS3" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" alt="JavaScript" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySQL" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="Python" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" alt="TailwindCSS" width="50"/>
-      </td>
-      <td align="center">
-        <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" alt="Figma" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=EZQdGLNeo7JI&format=png&color=000000" alt="Canva" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000" alt="VSCode" width="50"/>
-        <img src="https://img.icons8.com/?size=100&id=lsDwPKu9v0gn&format=png&color=000000" alt="Notion" width="50"/>
-      </td>
-    </tr>
-  </table>
+  <img src="[URL_IMAGEN_BANNER]" alt="Banner" width="100%" />
 </div>
 
+<br/>
+
+<h2 align="center">Hi 👋, I'm Carlos (Sky)</h2>
+<h4 align="center">Founder @ Skycrew Solutions | Software Engineer & Game Developer</h4>
+<p align="center">Building reliable systems with clean architecture and scalable solutions.</p>
+
+<br/>
+
 ---
 
-### 🎯 Some Quick Stats:
+<h3 align="center">🚀 About Me</h3>
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/CarlosRW/github-readme-stats">
-    <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=radical" />
-  </a>
-  <!-- Most Used Languages -->
-  <a href="https://github.com/CarlosRW/convoychat">
-    <img width="400" height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=radical" />
-  </a>
-  
+<img align="right" src="[URL_IMAGEN_LATERAL]" alt="Aesthetic GIF/Image" width="250" />
+
+Hey, I'm Carlos — a Software Development Engineer focused on building robust full-stack applications and immersive digital experiences.
+
+As the Founder of **Skycrew Solutions**, I enjoy architecting production-ready platforms using Next.js, Spring Boot, and Supabase, while also developing games in Godot and Unity.
+
+My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
+
+<br clear="both"/>
+
 ---
 
-### 📫 Feel free to connect with me!
+<h3 align="center">🤝 Let's Connect!</h3>
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosrw/)
-Email: carlos.ramirezw23@gmail.com
-<p> Made with ♥️ </p>
+<div align="center">
+  <a href="https://github.com/CarlosRW">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/carlosrw/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:carlos.ramirezw23@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://portfolio-carlosrw.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">💻 Tech Stack</h3>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,java,spring,cs,python,mysql,supabase,godot,unity,blender,git,vercel&perline=8" alt="Tech Stack" />
+  </a>
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&bg_color=00000000" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=00000000" height="150" alt="Top Languages" />
+</div>
+
+<br/>
+
+<p align="center">Made with 💜</p>
