@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/CarlosRW/CarlosRW/blob/main/descarga%20(1).jpg?raw=true" alt="Banner" width="100%" height="50%" />
+  <img src="https://raw.githubusercontent.com/CarlosRW/CarlosRW/refs/heads/main/descarga%20(1).jpg" alt="Cosmic Banner" width="50%" />
 </div>
 
 <br/>
 
-<h2 align="center">Hi 👋, I'm Carlos (Sky)</h2>
+<h2 align="center">Hi 👋, I'm Carlos (aka Sky)</h2>
 <h4 align="center">Founder @ Skycrew Solutions | Software Engineer & Game Developer</h4>
 <p align="center">Building reliable systems with clean architecture and scalable solutions.</p>
 
@@ -14,7 +14,7 @@
 
 <h3 align="center">🚀 About Me</h3>
 
-<img align="right" src="https://github.com/CarlosRW/CarlosRW/blob/main/descarga%20(2)-ascii-animation%20(1).gif?raw=true" alt="Aesthetic GIF/Image" width="250" />
+<img align="right" src="https://github.com/CarlosRW/CarlosRW/blob/main/AVO.jpg?raw=true" alt="Ethereal Blooming Flower" width="220" />
 
 Hey, I'm Carlos - a Software Development Engineer focused on building robust full-stack applications and immersive digital experiences.
 
@@ -26,20 +26,39 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 
 ---
 
-<h3 align="center">🤝 Let's Connect!</h3>
+<h3 align="center">✨ My Creations</h3>
+
+<div align="center">
+  <a href="https://www.gozumi.app/">
+    <!-- Sube el logo de Zumi a tu repositorio (idealmente con fondo transparente) y pon el link aquí 👇 -->
+    <img src="https://github.com/CarlosRW/CarlosRW/blob/main/icon-512__1_-removebg-preview.png?raw=true" alt="Zumi Logo" width="100" />
+  </a>
+  <br/><br/>
+  <a href="https://www.gozumi.app/" style="font-size: 18px; text-decoration: none; color: #885ae7;"><b>Zumi</b></a>
+  <br/>
+  <i>Track your expenses, savings goals, and household budget all in one place.</i>
+  <br/><br/>
+  <code>Next.js</code> • <code>Supabase</code> • <code>Tailwind CSS</code> • <code>Lemon Squeezy</code>
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">🤝 Connect</h3>
 
 <div align="center">
   <a href="https://github.com/CarlosRW">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-09090b?style=for-the-badge&logo=github&logoColor=885ae7" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/carlosrw/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-09090b?style=for-the-badge&logo=linkedin&logoColor=885ae7" alt="LinkedIn" />
   </a>
   <a href="mailto:carlos.ramirezw23@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-09090b?style=for-the-badge&logo=gmail&logoColor=885ae7" alt="Email" />
   </a>
   <a href="https://portfolio-carlosrw.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-09090b?style=for-the-badge&logo=vercel&logoColor=885ae7" alt="Portfolio" />
   </a>
 </div>
 
@@ -62,8 +81,8 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 <h3 align="center">📊 GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&bg_color=00000000" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=00000000" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarlosRW&show_icons=true&hide_border=true&title_color=ffffff&text_color=885ae7&icon_color=885ae7&bg_color=00000000" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosRW&layout=compact&hide_border=true&title_color=ffffff&text_color=885ae7&bg_color=00000000" height="150" alt="Top Languages" />
 </div>
 
 <br/>
