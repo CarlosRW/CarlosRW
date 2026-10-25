@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CarlosRW/CarlosRW/refs/heads/main/descarga%20(1).jpg" alt="Cosmic Banner" width="50%" />
+  <img src="https://raw.githubusercontent.com/CarlosRW/CarlosRW/refs/heads/main/descarga%20(1).jpg" alt="Cosmic Banner" width="100%" />
 </div>
 
 <br/>
@@ -9,20 +9,25 @@
 <p align="center">Building reliable systems with clean architecture and scalable solutions.</p>
 
 <br/>
+<br/>
 
----
+<table align="center" style="border-collapse: collapse; border: none; width: 100%;">
+  <tr style="border: none;">
+    <td width="65%" style="border: none; padding-right: 30px; vertical-align: middle;">
+      <h3 align="left">🚀 About Me</h3>
+      Hey, I'm Carlos - a Software Development Engineer focused on building robust full-stack applications and immersive digital experiences.
+      <br><br>
+      As the Founder of <b>Skycrew Solutions</b>, I enjoy architecting production-ready platforms using Next.js, Spring Boot, and Supabase, while also developing games in Godot and Unity.
+      <br><br>
+      My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
+    </td>
+    <td width="35%" align="center" style="border: none; vertical-align: middle;">
+      <img src="https://github.com/CarlosRW/CarlosRW/blob/main/AVO.jpg?raw=true" alt="Ethereal Butterfly" width="220" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="center">🚀 About Me</h3>
-
-<img align="right" src="https://github.com/CarlosRW/CarlosRW/blob/main/AVO.jpg?raw=true" alt="Ethereal Blooming Flower" width="220" />
-
-Hey, I'm Carlos - a Software Development Engineer focused on building robust full-stack applications and immersive digital experiences.
-
-As the Founder of **Skycrew Solutions**, I enjoy architecting production-ready platforms using Next.js, Spring Boot, and Supabase, while also developing games in Godot and Unity.
-
-My goal is simple: write clean code, build reliable software, and grow into an engineer who creates systems that last.
-
-<br clear="both"/>
+<br/>
 
 ---
 
@@ -30,10 +35,9 @@ My goal is simple: write clean code, build reliable software, and grow into an e
 
 <div align="center">
   <a href="https://www.gozumi.app/">
-    <!-- Sube el logo de Zumi a tu repositorio (idealmente con fondo transparente) y pon el link aquí 👇 -->
-    <img src="https://github.com/CarlosRW/CarlosRW/blob/main/icon-512__1_-removebg-preview.png?raw=true" alt="Zumi Logo" width="100" />
+    <img src="https://github.com/CarlosRW/CarlosRW/blob/main/icon-512__1_-removebg-preview.png?raw=true" alt="Zumi Logo" width="70" />
   </a>
-  <br/><br/>
+  <br/>
   <a href="https://www.gozumi.app/" style="font-size: 18px; text-decoration: none; color: #885ae7;"><b>Zumi</b></a>
   <br/>
   <i>Track your expenses, savings goals, and household budget all in one place.</i>
